@@ -1,4 +1,4 @@
-<img src="logo.png" align="center">
+<img src="logo.png" align="center" width="350px">
 
 # empieza-aqui
 Índice de proyectos, experiencias y documentación general  de la comunidad.
