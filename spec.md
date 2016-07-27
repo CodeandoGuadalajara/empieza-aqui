@@ -1,4 +1,4 @@
-#Documento inicial
+#Guía para documentos de especificación
 
 
 Para empezar un proyecto de comunidad crea un documento de especificación el cual debe incluir la siguiente información:
