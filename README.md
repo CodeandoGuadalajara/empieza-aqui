@@ -14,7 +14,7 @@ Somos parte de un movimiento a nivel nacional llamado **Codeando México**, nues
 
 ###¿Cómo lo hacemos?
 
-#### Civic Hack Sessions
+#### Civic Hack Nights
 
 Organizamos reuniones de hacking cívico en las cuales se presentan y enriquecen ideas y proyectos que puedan tener un impacto positivo en la ciudad, el estado o el país. 
 
@@ -32,6 +32,7 @@ Algunas de las organizaciones:
 - Zapopan Lab
 - Secretaría de Innovación Ciencia y Tecnología de Jalisco
 - Universitarios, CUAAD - UDG
+- GDL ne bici
 
 
 ##Genial, ¿Cómo me involucro?
@@ -48,6 +49,9 @@ Algunas ideas:
 
 
 * Crea un issue en github para proponer un contenido, taller o proyecto a la comunidad.
+
+
+
 
 
 
