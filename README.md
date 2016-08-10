@@ -8,7 +8,7 @@ Información relevante sobre la comunidad.
 
 Codeando Guadalajara es la comunidad de Hacking Cívico de la ciudad de Guadalajara, Jalisco, México.
 
-Somos una comunidad conformada por voluntarios con diferentes perfiles, quienes tenemos la visión de una cambio positivo en la sociedad a través de la tecnología.
+Somos una comunidad conformada por voluntarios con diferentes perfiles, quienes tenemos la visión de un cambio positivo en la sociedad a través de la tecnología.
 
 Somos parte de un movimiento a nivel nacional llamado **Codeando México**, nuestro objetivo es propiciar que se genere tecnología que pueda responder de manera puntual a los problemas y retos del entorno social en que vivimos.
 
@@ -32,7 +32,7 @@ Algunas de las organizaciones:
 - Zapopan Lab
 - Secretaría de Innovación Ciencia y Tecnología de Jalisco
 - Universitarios, CUAAD - UDG
-- GDL ne bici
+- GDL en bici
 
 
 ##Genial, ¿Cómo me involucro?
@@ -42,7 +42,7 @@ Algunas ideas:
 * Asiste a alguna de las actividades que organizamos. Puedes encontrar el próximo evento en nuestro [Facebook](https://www.facebook.com/CodeandoGuadalajara/)
 
 
-* Colabora en alguno de los proyectos existentes en la comunidad (puedes encontrarlos en la sección *repositorios*
+* Colabora en alguno de los proyectos existentes en la comunidad (puedes encontrarlos en la sección *repositorios*.
 
 
 * Invita a amigos desarrolladores, diseñadores, funcionarios públicos chidos (*govies*), compañeros de escuela o cualquier persona interesada en trabajar para construir herramientas que beneficien a la sociedad.
