@@ -34,6 +34,14 @@ Algunas de las organizaciones:
 - Universitarios, CUAAD - UDG
 - GDL en bici
 
+#### Proyectos activos
+
+Únete a cualquiera de nuestros proyectos. Siempre hay espacio para lo que puedas aportar.
+
+[Datos1x1](https://github.com/CodeandoGuadalajara/datos1x1) Proyecto fotográfico con 4 años de datos que busca visualizar tendencias artísticas geográficamente.  
+[Narrativas Geourbanas](https://github.com/CodeandoGuadalajara/Narrativas-Geourbanas) Proyecto que busca construir historias de la ciudad con datos en formato StoryMap.  
+[Qué has hecho alcalde](https://github.com/CodeandoGuadalajara/que-has-hecho-alcalde) Proyecto que busca dar seguimiento a los compromisos hechos por Alcaldes del área Metropolitana de Guadalajara.
+[Bikla Bots](https://github.com/CodeandoGuadalajara/mapeociclista) Proyecto que busca ofrecer un sistema de captación ciudadana de datos sobre la movilidad no-motorizada para su utilización en políticas públicas.
 
 ##Genial, ¿Cómo me involucro?
 
