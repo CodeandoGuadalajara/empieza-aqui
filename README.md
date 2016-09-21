@@ -29,10 +29,11 @@ Nos gusta escuchar del trabajo de Organizaciones con las que compartimos objetiv
 
 Algunas de las organizaciones:
 
-- Zapopan Lab
-- Secretaría de Innovación Ciencia y Tecnología de Jalisco
+- Wikipolítica
 - Universitarios, CUAAD - UDG
 - GDL en bici
+- IMEPLAN
+- Jalisco cómo vamos
 
 #### Proyectos activos
 
@@ -45,7 +46,8 @@ Algunas de las organizaciones:
 - [Qué has hecho alcalde](https://github.com/CodeandoGuadalajara/que-has-hecho-alcalde) Proyecto que busca dar seguimiento a los compromisos hechos por Alcaldes del área Metropolitana de Guadalajara.  
   
 - [Bikla Bots](https://github.com/CodeandoGuadalajara/mapeociclista) Proyecto que busca ofrecer un sistema de captación ciudadana de datos sobre la movilidad no-motorizada para su utilización en políticas públicas.
-  
+
+- [Informe Bajo lupa](https://github.com/CodeandoGuadalajara/informebajolupa) En colaboracion con otras 6 organizaciones, miembros de  Codeando Guadalajara desarrollaron la plataforma en la que se visualizan los resultados del ejecricio de revisión de informes de gobierno de los alcaldes de Guadalajara y Zapopan. 
   
 ##Genial, ¿Cómo me involucro?
 
